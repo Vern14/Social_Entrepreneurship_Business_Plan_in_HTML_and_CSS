@@ -1,0 +1,21 @@
+	h1{text-align:center; color:white; background-color:skyBlue;  padding:60px; background-image:("DSCN0279.JPG");  font-style:bold; border-radius:3px;}
+			body{margin:170px; padding:80px; top:-50px; border:solid skyBlue; border-radius:3px; font-family:aerial; text-indent:5px; box-shadow: 1px 1px 2px 2px skyBlue;}
+			h3{font-style:italic; text-indent:5px;}
+			span{background-color:skyBlue; border-radius:3px; text-indent:5px; color:white;text-align:center; font-style:italic;padding:3px;}
+			hr{border:solid skyBlue 1px;}
+			img{  border-radius:3px; position:relative; left:1px;}
+			h4{color: white; background-color:skyBlue; border-radius:3px;padding:5px;font-size:15px;}
+			h5{color: white; background-color:skyBlue; border-radius:3px;padding:5px;font-size:20px;}
+			h6{font-size:20px; color:white; border-radius:7px; background-color:skyBlue; text-align:center; top:-10px; width:170px; padding:5px;}
+			h7{color: white; background-color:skyBlue; border-radius:3px;padding:9px;font-size:20px;}
+			h8{color: white; background-color:skyBlue; border-radius:3px;padding:5px;font-size:16px;}
+			ul{list-style-type:lower-roman;}
+			ol{list-style-type:upper-roman;}
+			div{border-radius:3px;border:solid skyBlue 1px;padding:23px;}
+			a{color: white; background-color:skyBlue; border-radius:3px;padding:3px;font-size:20px;}
+			h9{color: white; background-color:skyBlue; border-radius:3px;padding:5px;font-size:38px;}
+			th{color: white; background-color:skyBlue; border-radius:3px;padding:5px;font-size:15px;}
+			table{border:solid skyblue 1px; border-radius:3px;padding:-5px;}
+			tr{border:solid skyblue 1px; border-radius:3px;font-size:10px;}
+			h10{font-size:15px;}
+			ul.a{list-style-type: square;}
